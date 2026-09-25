@@ -5,7 +5,7 @@
 TicTacToe implemented with fundamental rules of alternating turns, winner detection, and no overwriting on a 3x3 board. Additional rule added that only 3 X's and O's of each may exist at any time, adding an ultimate level of strategy.
 
 ### 2. How to Run It:
-Ensure that git and Node.js are properly installed on your system. Then, on a terminal, run
+Ensure that Git and Node.js are properly installed on your system. Then, open a terminal and run:
 - git clone https://github.com/ulqane/tictactoe
 - cd ~/TicTacToe
 - npm install
