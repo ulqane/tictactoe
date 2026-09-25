@@ -10,7 +10,8 @@ Ensure that Git and Node.js are properly installed on your system. Then, open a 
 - cd ~/TicTacToe
 - npm install
 - npm run dev
-<br />Afterwards, open the local URL that was given in terminal (http://localhost:5173) to view the project.
+<br />
+Afterwards, open the local URL that was given in terminal (http://localhost:5173) to view the project.
 
 ### 3. Your Contribution:
 Following the fundamental portion of the React tutorial...
