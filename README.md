@@ -7,7 +7,7 @@ TicTacToe implemented with fundamental rules of alternating turns, winner detect
 ### 2. How to Run It:
 Ensure that Git and Node.js are properly installed on your system. Then, open a terminal and run:
 * `git clone https://github.com/ulqane/tictactoe`
-* `cd ~/TicTacToe`
+* `cd tictactoe`
 * `npm install`
 * `npm run dev`
 <br />
