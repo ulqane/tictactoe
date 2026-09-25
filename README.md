@@ -1,1 +1,1 @@
-![Ultimate TicTacToe Screenshot](./assets/demoimage.png)
+![Ultimate TicTacToe Screenshot](demoimage.png)
