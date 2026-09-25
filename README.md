@@ -6,11 +6,13 @@ TicTacToe implemented with fundamental rules of alternating turns, winner detect
 
 ### 2. How to Run It:
 Ensure that Git and Node.js are properly installed on your system. Then, open a terminal and run:
-- git clone https://github.com/ulqane/tictactoe
-- cd ~/TicTacToe
-- npm install
-- npm run dev
+* `git clone https://github.com/ulqane/tictactoe`
+* `cd ~/TicTacToe`
+* `npm install`
+* `npm run dev`
+
 <br />
+
 Afterwards, open the local URL that was given in terminal (http://localhost:5173) to view the project.
 
 ### 3. Your Contribution:
@@ -25,6 +27,7 @@ Following the fundamental portion of the React tutorial...
 
 ### 4. What I Learned:
 One thing I learned was how to effectively approach the mountain of CSS and understanding each component and what they do. 
+
 The default boilerplate given by Vite had a dark theme and many complex variable settings that went unused or became unnecessary. There were a plethora of variables I could barely comprehend, and in having to cull what was needed along with reinstantiating them for my project, I gained a better grasp of the fundamental pieces needed to create a strong basis for a format. 
 
 ### 5. References:
